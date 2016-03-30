@@ -32,9 +32,9 @@ namespace Songsterr
             get { return "Songsterr"; }
         }
 
-        public Version Version
+        public TabsterVersion Version
         {
-            get { return new Version("1.0"); }
+            get { return new TabsterVersion("1.0"); }
         }
 
         public Uri Website
