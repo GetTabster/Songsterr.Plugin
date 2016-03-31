@@ -23,7 +23,7 @@ deploy:
     auth_token:
       secure: SD+1NPa8QJ8nAT9A4wsEog2pedpT8KaQebkDVB9mHbVze6nYABjcVzDa/5MXK0ZW
     artifact: Songsterr.zip
-    draft: false
+    draft: true
     on:
       branch: master
       appveyor_repo_tag: true
