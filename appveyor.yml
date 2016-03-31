@@ -12,3 +12,9 @@ before_build:
 - ps: nuget restore
 build:
   project: Songsterr.sln
+after_build:
+- ps: >-
+    .\Deploy\archive.ps1
+artifacts:
+- path: Songsterr.zip
+  name: archive
