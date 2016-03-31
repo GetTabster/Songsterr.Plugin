@@ -3,6 +3,7 @@
 using System;
 using System.Runtime.InteropServices;
 using Tabster.Core.Plugins;
+using Tabster.Core.Types;
 
 #endregion
 
