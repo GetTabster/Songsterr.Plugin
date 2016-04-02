@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nate Shoffner")]
 [assembly: AssemblyProduct("Songsterr")]
-[assembly: AssemblyCopyright("Copyright © Nate Shoffner 2014")]
+[assembly: AssemblyCopyright("Copyright © Nate Shoffner 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
